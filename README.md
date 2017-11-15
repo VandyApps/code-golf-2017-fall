@@ -142,7 +142,7 @@ I               # Output line length and remaining sandwich count at time I
 ```
 - Example output:
 ``` 
-0 1             # The line is 0 minutes long and there is 1 sandwich at time 0
+1 1            # The line is 1 minute long and there is 1 sandwich at time 0
 ```
 
 - Example input:
