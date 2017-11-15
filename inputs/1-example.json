@@ -1,0 +1,21 @@
+{
+    "devices": [
+        {
+            "type": "phone",
+            "color": "panda",
+            "model": "Google Pixel 2 XL"
+        },
+        {
+            "type": "laptop",
+            "color": "white",
+            "model": "Apple 2015 Macbook Pro"
+        }
+    ],
+    "bans": [
+        {
+            "key": "type",
+            "value": "laptop"
+        }
+    ]
+}
+
